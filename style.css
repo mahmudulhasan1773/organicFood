@@ -106,7 +106,7 @@ ul li a {
 }
 
 .hero-img {
-  background-image: url("./hero-bg.png");
+  background-image: url("./images/hero-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -121,7 +121,7 @@ ul li a {
 .about-area {
   margin-top: 100px;
   height: 500px;
-  background-image: url(./about-bg.png);
+  background-image: url(./images/about-bg.png);
   background-size: 100%;
   background-repeat: no-repeat;
   border-radius: 5px;
